@@ -122,8 +122,5 @@ rotate([0,180,0])
 }
 
 //plug();
-holder();
-translate([0,0,-2*(slate_height+holder_body_height+(contact_screw1_offset+contact_screw2_offset)/2)])
-	rotate([0,180,0])
-		holder();
-//holder_printable();
+//holder();
+holder_printable();
