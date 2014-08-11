@@ -1,7 +1,7 @@
 Hoverlay II
 =================
 
-<h3>Version 0.2</h3>
+<h3>Version 2.0</h3>
 an modular, stackable open source vapor display.
 
 <h2>License</h2>
