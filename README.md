@@ -57,3 +57,31 @@ Raw versions of all apps are now included in the repository. Mind that the code 
 - [x] nice power supply connector
 - [ ] clean up apps code
 - [ ] finish writing to do list
+
+<h2>Credits and Licensing</h2>
+Hoverlay II and all application code is licensed under GPL V3 http://www.gnu.org/licenses/gpl.html. This project would not have
+been possible without open source hard- and software. Special thanks the following open source projects, that have been used in making and/or are part of Hoverlay II:
+
+<h3>Hardware Design:</h3>
+<ul>
+	<li><a href="http://www.openscad.org" target="_blank">OpenScad</a></li>
+	<li><a href="http://www.processing.org" target="_blank">Processing</a></li>
+</ul>
+<h3>Manufacturing:</h3>
+<ul>
+	<li><a href="http://www.reprap.org" target="_blank">RepRap Project</a></li>
+	<li><a href="http://www.repetier.com" target="_blank">Repetier</a></li>
+	<li><a href="http://www.slic3r.org" target="_blank">Slic3r</a></li>
+	<li><a href="http://linuxcnc.org" target="_blank">LinuxCNC</a></li>
+</ul>
+
+<h3>Application Development:</h3>
+<ul>
+	<li><a href="http://processing.org" target="_blank">Processing</a></li>
+	<li><a href="http://kinecta.mihoo.de" target="_blank">KinectA</a> and <a href="https://github.com/OpenNI/OpenNI" target="_blank">OpenNI</a></li>
+	<li><a href="https://github.com/memo/p5-MSAFluid" target="_blank">MSAFluid Processing library</a></li>
+	<li><a href="http://www.sojamo.de/libraries/oscP5/" target="_blank">oscP5 Processing library</a></li>
+	<li><a href="http://code.compartmental.net/tools/minim/" target="_blank">Minim Processing library</a></li>
+	<li><a href="https://code.google.com/p/saitoobjloader/" target="_blank">saitoobjloader Processing library</a></li>
+	<li><a href="http://arduino.cc/" target="_blank">Arduino</a></li>
+</ul>
