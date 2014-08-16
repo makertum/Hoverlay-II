@@ -49,10 +49,11 @@ All files licensed under GPL V3 http://www.gnu.org/licenses/gpl.html
 	<li>a video or still image projector. A 3000 ANSI lumen projector doesn't hurt while a overhead or dia projector will also work. LED projectors are not recommended, for holographic projections use a light-field projector and/or add a few drops of LSD to the vat*</li>
 </ul>
 
-<h3>Apps</h3>
+<h2>Apps</h2>
 Raw versions of all apps are now included in the repository. Mind that the code has not been cleaned up, so it might not run or export immediately, because of wrong serial port names, missing sound files, etc. Don't give up, it's easy to make them run, the code is quite straight forward.
 
 <h2>To do</h2>
 - [x] write a bom
 - [x] nice power supply connector
+- [ ] clean up apps code
 - [ ] finish writing to do list
