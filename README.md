@@ -59,7 +59,7 @@ Raw versions of all apps are now included in the repository. Mind that the code 
 - [ ] finish writing to do list
 
 <h2>Credits and Licensing</h2>
-Hoverlay II and all application code is licensed under GPL V3 http://www.gnu.org/licenses/gpl.html. This project would not have
+Hoverlay II and all application code is licensed under <a href="http://www.gnu.org/licenses/gpl.html" target="_blank">GPL V3</a>. This project would not have
 been possible without open source hard- and software. Special thanks the following open source projects, that have been used in making and/or are part of Hoverlay II:
 
 <h3>Hardware Design:</h3>
