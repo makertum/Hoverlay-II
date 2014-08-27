@@ -1,3 +1,8 @@
+// Hoverlay II honeycomb gcode generator
+// created by Moritz Walter, 2014
+// licensed under GPL V3
+// all infos at iamnotachoice.com/hoverlay-2
+
 float top_width=6;
 float bottom_width=6;// 51
 float col_offset=0; //6

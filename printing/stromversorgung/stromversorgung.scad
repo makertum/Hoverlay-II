@@ -1,3 +1,8 @@
+// Hoverlay II power connector
+// created by Moritz Walter, 2014
+// licensed under GPL V3
+// all infos at iamnotachoice.com/hoverlay-2
+
 hole_dist=30;
 hole_dia=3;
 

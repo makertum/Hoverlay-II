@@ -1,11 +1,11 @@
 // Hoverlay II brighntness booster mk1
+// created by Moritz Walter, 2014
 // licensed under GPL V3
 // all infos at iamnotachoice.com/hoverlay-2
-// all dimensions in mm
 
 // BASIC CONFIGURATION
 
-fan_size=60; // select your fan size here from 40, 60 or 80 (other values won't work!)
+fan_size=60; // select your fan size (in mm) here from 40, 60 or 80 (other values won't work!)
 
 walls=1;	// thickness of printed walls
 base=2;	// thickness of printed baseplate (must be a bit thicker because we're printing bridges here)

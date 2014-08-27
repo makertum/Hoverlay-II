@@ -1,3 +1,8 @@
+// Hoverlay II power connector mount
+// created by Moritz Walter, 2014
+// licensed under GPL V3
+// all infos at iamnotachoice.com/hoverlay-2
+
 $fn=32;
 
 plug_bottom_radius=5.0/2; // must: 4.7/2 is 4.2/2
